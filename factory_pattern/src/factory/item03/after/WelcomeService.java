@@ -10,4 +10,6 @@ public interface WelcomeService {
 
         throw new IllegalArgumentException();
     }
+
+    String say();
 }
