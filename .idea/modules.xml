@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/catch-block/catch-block.iml" filepath="$PROJECT_DIR$/catch-block/catch-block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queryDAO_test_example/queryDAO_test_example.iml" filepath="$PROJECT_DIR$/queryDAO_test_example/queryDAO_test_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try-with-resoucess/try-with-resoucess.iml" filepath="$PROJECT_DIR$/try-with-resoucess/try-with-resoucess.iml" />
       <module fileurl="file://$PROJECT_DIR$/tutorial.iml" filepath="$PROJECT_DIR$/tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit_test_example/unit_test_example.iml" filepath="$PROJECT_DIR$/unit_test_example/unit_test_example.iml" />
     </modules>
   </component>
 </project>
