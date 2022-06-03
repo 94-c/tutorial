@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/queryDAO_test_example/queryDAO_test_example.iml" filepath="$PROJECT_DIR$/queryDAO_test_example/queryDAO_test_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-with-resoucess/try-with-resoucess.iml" filepath="$PROJECT_DIR$/try-with-resoucess/try-with-resoucess.iml" />
       <module fileurl="file://$PROJECT_DIR$/tutorial.iml" filepath="$PROJECT_DIR$/tutorial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/unit_test_example/unit_test_example.iml" filepath="$PROJECT_DIR$/unit_test_example/unit_test_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit_test/unit_test.iml" filepath="$PROJECT_DIR$/unit_test/unit_test.iml" />
     </modules>
   </component>
 </project>
